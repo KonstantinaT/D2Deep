@@ -1,7 +1,8 @@
 D2Deep: Combining evolution and protein language models for cancer driver mutation prediction
 =========
 
-The method capitalizes on the abundance of available protein sequences, state-of-the-art Large Language Model architectures (Prot-T5 [1]) and Evolutionary Information from Multiple Sequence Alignments. The statistical model incorporated makes possible the calculation of confidence score for each prediction facilitating its interpretation.
+The method capitalizes on the abundance of available protein sequences, state-of-the-art Large Language Model architectures (Prot-T5[1]) and Evolutionary Information from Multiple Sequence Alignments[2]. The statistical model incorporated makes possible the calculation of confidence score for each prediction facilitating its interpretation.
+Our website provides a comprehensive set of tools for querying and visualizing protein mutations. 
 
 Table of contents
 =================
@@ -41,3 +42,4 @@ Example for TP53 (P04637):
 References
 =============
 [1] Elnaggar A, Heinzinger M, Dallago C, et al. ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning. IEEE Trans Pattern Anal Mach Intell. 2022;44(10):7112-7127. doi:10.1109/TPAMI.2021.3095381
+[2] Steinegger, M., Söding, J. MMseqs2 enables sensitive protein sequence searching for the analysis of massive data sets. Nat Biotechnol 35, 1026–1028 (2017). https://doi.org/10.1038/nbt.3988
