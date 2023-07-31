@@ -26,6 +26,6 @@ Confidence calculation
 Inference
 ============
 
-Relative links
+Website
 ============
 
