@@ -389,11 +389,6 @@ for gene in genes:
   # confidence B
   aic_temp, log_prob_temp, mutations, threshold_WT_benign_predictions_temp, threshold_MUT_benign_predictions_temp, threshold_WT_pathogenic_predictions_temp, threshold_MUT_pathogenic_predictions_temp = calculation_WT_MUT(list_uniprot, all_mutations, msa_path)
 
-  #threshold_WT_benign_predictions=threshold_WT_benign_predictions+threshold_WT_benign_predictions_temp
-  #threshold_WT_pathogenic_predictions=threshold_WT_pathogenic_predictions+ threshold_WT_pathogenic_predictions_temp
-  #threshold_MUT_pathogenic_predictions =threshold_MUT_pathogenic_predictions + threshold_MUT_pathogenic_predictions_temp
-  #threshold_MUT_benign_predictions= threshold_MUT_benign_predictions+ threshold_MUT_benign_predictions_temp
-
   # create mutation, probability to be benign, probability to be pathogenic, WT_thres, MUT_thres
   confidence_df = pd.DataFrame(list(zip(mutations, aic_temp, log_prob_temp)), columns = ['mutation', 'AIC', 'Log_prob'])
   confidence_df.to_csv(gene+'_confidenceB.csv') 
