@@ -4,6 +4,9 @@ D2Deep: Combining evolution and protein language models for cancer driver mutati
 The method capitalizes on the abundance of available protein sequences, state-of-the-art Large Language Model architectures (Prot-T5[1]) and Evolutionary Information from Multiple Sequence Alignments[2]. The statistical model incorporated makes possible the calculation of confidence score for each prediction facilitating its interpretation.
 Our website provides a comprehensive set of tools for querying and visualizing protein mutations. 
 
+Software and hardware requirements: The Prot-T5 pre-trained model should be downloaded from: https://huggingface.co/Rostlab/prot_t5_xl_uniref50 before the calculation of features. A GPU with 40GB of RAM is required.
+
+
 Table of contents
 =================
 
