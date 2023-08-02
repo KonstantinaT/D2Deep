@@ -24,7 +24,7 @@ Datasets and data processing
 
 Datasets containing training data, test sets and identifiers mapping can be downloaded through Zenodo: 
 
-The GMM feature extraction code can be found in: GMM_dif_maxpool.py
+The GMM feature extraction code can be found in: GMM_diff_maxpool.py
 
 Training
 ============
