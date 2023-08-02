@@ -30,14 +30,20 @@ Training
 ============
 
 
-
 <img src="https://github.com/KonstantinaT/Predictor/assets/22578534/789c2440-a8da-4676-9791-de2c01a3bbed" width="70%" height="50%">
+
+Code: Model.py
+
 
 Confidence calculation
 ============
 
+Code: all_mutations_oncogene_confidenceB.py 
+
 Inference
 ============
+
+
 
 Website
 ============
