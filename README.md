@@ -42,6 +42,7 @@ Inference
 Website
 ============
 To assess the effect of a mutation and view all comprehensive set of tools for querying and visualizing protein mutations, visit : https://tumorscope.be/d2deep/
+
 Example for TP53 (P04637):
 
 <img src="https://github.com/KonstantinaT/Predictor/assets/22578534/bee303ae-38a0-4049-97dd-ae1b18fa8a88" width="70%" height="70%">
