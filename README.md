@@ -24,7 +24,7 @@ Datasets and data processing
 
 Datasets containing training data, test sets and identifiers mapping can be downloaded through Zenodo: 
 
-The GMM feature extraction code can be found in: GMM_diff_maxpool.py
+The scripts for data curation and processing can be found in *Data_curation/*. The GMM feature extraction code can be found in: *GMM_diff_maxpool.py*
 
 Training
 ============
@@ -32,18 +32,18 @@ Training
 
 <img src="https://github.com/KonstantinaT/Predictor/assets/22578534/789c2440-a8da-4676-9791-de2c01a3bbed" width="70%" height="50%">
 
-Code: Model.ipynb
+Code: *Model.ipynb*
 
 
 Confidence calculation
 ============
 
-Code: all_mutations_oncogene_confidenceB.py, confidence.ipynb
+Code: *all_mutations_oncogene_confidenceB.py*, *confidence.ipynb*
 
 Inference
 ============
 
-Code: Inference.ipynb
+Code: *Inference.ipynb*
 
 
 Website
