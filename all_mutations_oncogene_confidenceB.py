@@ -393,6 +393,7 @@ for gene in genes:
   confidence_df = pd.DataFrame(list(zip(mutations, aic_temp, log_prob_temp)), columns = ['mutation', 'AIC', 'Log_prob'])
   confidence_df.to_csv(gene+'_confidenceB.csv') 
 
+# Visualizations
 '''
 # plot results  
 data = [threshold_WT_benign_predictions, threshold_WT_pathogenic_predictions]
