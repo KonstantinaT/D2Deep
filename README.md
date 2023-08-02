@@ -19,7 +19,8 @@ Table of contents
 Datasets and data processing
 ============
 
-Datasets containing training data, test sets and identifiers mapping can be downloaded through Zenodo : 
+Datasets containing training data, test sets and identifiers mapping can be downloaded through Zenodo: 
+The GMM feature extraction code can be found in:
 
 Training
 ============
