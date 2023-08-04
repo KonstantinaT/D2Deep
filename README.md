@@ -52,7 +52,7 @@ To assess the effect of a mutation and view all comprehensive set of tools for q
 
 Example for TP53 (P04637):
 
-<img src="webserver.png" width="70%" height="70%">
+<img src="webserver.PNG" width="70%" height="70%">
 
 References
 =============
