@@ -30,7 +30,7 @@ Training
 ============
 
 
-<img src="https://github.com/KonstantinaT/Predictor/assets/22578534/789c2440-a8da-4676-9791-de2c01a3bbed" width="70%" height="50%">
+<img src="pipeline.png" width="70%" height="50%">
 
 Code: *Model.ipynb*
 
@@ -52,7 +52,7 @@ To assess the effect of a mutation and view all comprehensive set of tools for q
 
 Example for TP53 (P04637):
 
-<img src="https://github.com/KonstantinaT/Predictor/assets/22578534/bee303ae-38a0-4049-97dd-ae1b18fa8a88" width="70%" height="70%">
+<img src="webserver.png" width="70%" height="70%">
 
 References
 =============
