@@ -37,11 +37,9 @@ Code: *Model.ipynb*
 
 Example of inference and confidence calculation 
 ============
-Colab:
-Code: *Inference.ipynb*
-
-Python scripts:
-Code: *D2Deep.py*, *D2Deep_functions.py*
+- Colab: *Inference.ipynb*
+or
+- Python scripts: *D2Deep.py*, *D2Deep_functions.py*
 
 Website
 ============
