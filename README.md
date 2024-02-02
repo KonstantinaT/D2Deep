@@ -35,7 +35,7 @@ Training
 Code: *Model.ipynb*
 
 
-Example of inference and confidence calculation
+Example of inference and confidence calculation (Colab and python script)
 ============
 
 Code: *Inference.ipynb*
