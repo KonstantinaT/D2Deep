@@ -11,11 +11,11 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Datasets and data processing](https://github.com/KonstantinaT/Predictor/edit/main/README.md#data-acquisition-and-processing)
-   * [Training](https://github.com/KonstantinaT/Predictor/edit/main/README.md#training)
+   * [Datasets and data processing](https://github.com/KonstantinaT/D2Deep/blob/main/README.md#datasets-and-data-processing)
+   * [Training](https://github.com/KonstantinaT/D2Deep#training)
    * [Example of inference and confidence calculation](https://github.com/KonstantinaT/D2Deep/blob/main/README.md#example-of-inference-and-confidence-calculation) 
-   * [Website](https://github.com/KonstantinaT/Predictor/edit/main/README.md#website)
-   * [References](https://github.com/KonstantinaT/Predictor/edit/main/README.md#references)
+   * [Website](https://github.com/KonstantinaT/D2Deep#website)
+   * [References](https://github.com/KonstantinaT/D2Deep#references)
 <!--te-->
 
 Datasets and data processing
