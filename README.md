@@ -22,7 +22,7 @@ Table of contents
 Datasets and data processing
 ============
 
-Datasets containing training data, test sets and identifiers mapping can be downloaded through Zenodo: https://zenodo.org/doi/10.5281/zenodo.8200795
+Datasets containing predictions, training data, test sets and identifiers mapping can be downloaded through Zenodo: https://zenodo.org/doi/10.5281/zenodo.8200795
 
 The scripts for data curation and processing can be found in *Data_curation/*. The GMM feature extraction code can be found in: *GMM_diff_maxpool.py*
 
