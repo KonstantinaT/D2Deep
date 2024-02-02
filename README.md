@@ -13,7 +13,7 @@ Table of contents
 <!--ts-->
    * [Datasets and data processing](https://github.com/KonstantinaT/Predictor/edit/main/README.md#data-acquisition-and-processing)
    * [Training](https://github.com/KonstantinaT/Predictor/edit/main/README.md#training)
-   * [Confidence calculation](https://github.com/KonstantinaT/Predictor/edit/main/README.md#confidence-calculation)
+   * [Example of inference and confidence calculation](https://github.com/KonstantinaT/Predictor/edit/main/README.md#confidence-calculation)
    * [Inference](https://github.com/KonstantinaT/Predictor/edit/main/README.md#inference)
    * [Website](https://github.com/KonstantinaT/Predictor/edit/main/README.md#website)
    * [References](https://github.com/KonstantinaT/Predictor/edit/main/README.md#references)
@@ -24,7 +24,7 @@ Datasets and data processing
 
 Datasets containing predictions, training data, test sets and identifiers mapping can be downloaded through Zenodo: https://zenodo.org/doi/10.5281/zenodo.8200795
 
-The scripts for data curation and processing can be found in *Data_curation/*. The GMM feature extraction code can be found in: *GMM_diff_maxpool.py*
+The scripts for data curation and processing can be found in *Data_curation/*.
 
 Training
 ============
@@ -35,12 +35,7 @@ Training
 Code: *Model.ipynb*
 
 
-Confidence calculation
-============
-
-Code: *all_mutations_oncogene_confidenceB.py*, *confidence.ipynb*
-
-Inference
+Example of inference and confidence calculation
 ============
 
 Code: *Inference.ipynb*
