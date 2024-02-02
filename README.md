@@ -32,16 +32,16 @@ Training
 
 <img src="pipeline.png" width="90%" height="80%">
 
-    Code: *Model.ipynb*
+    Code: Model.ipynb
 
 
 Example of inference and confidence calculation 
 ============
-    - Colab: *Inference.ipynb*
+    - Colab: Inference.ipynb
 
  OR
 
-    - Python scripts: *D2Deep.py*, *D2Deep_functions.py*
+    - Python scripts: D2Deep.py, D2Deep_functions.py
 
 Website
 ============
