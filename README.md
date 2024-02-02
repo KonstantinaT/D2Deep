@@ -14,7 +14,6 @@ Table of contents
    * [Datasets and data processing](https://github.com/KonstantinaT/Predictor/edit/main/README.md#data-acquisition-and-processing)
    * [Training](https://github.com/KonstantinaT/Predictor/edit/main/README.md#training)
    * [Example of inference and confidence calculation](https://github.com/KonstantinaT/Predictor/edit/main/README.md#confidence-calculation)
-   * [Inference](https://github.com/KonstantinaT/Predictor/edit/main/README.md#inference)
    * [Website](https://github.com/KonstantinaT/Predictor/edit/main/README.md#website)
    * [References](https://github.com/KonstantinaT/Predictor/edit/main/README.md#references)
 <!--te-->
@@ -37,11 +36,11 @@ Training
 
 Example of inference and confidence calculation 
 ============
-    - Colab: Inference.ipynb
+    Colab: Inference.ipynb
 
  OR
 
-    - Python scripts: D2Deep.py, D2Deep_functions.py
+    Python scripts: D2Deep.py, D2Deep_functions.py
 
 Website
 ============
