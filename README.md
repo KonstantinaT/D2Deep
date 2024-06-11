@@ -13,6 +13,7 @@ Table of contents
 <!--ts-->
    * [Datasets and data processing](https://github.com/KonstantinaT/D2Deep/blob/main/README.md#datasets-and-data-processing)
    * [Training](https://github.com/KonstantinaT/D2Deep#training)
+   * [D2D feature extraction: single and multiple mutations] ()
    * [Example of inference and confidence calculation](https://github.com/KonstantinaT/D2Deep/blob/main/README.md#example-of-inference-and-confidence-calculation) 
    * [Website](https://github.com/KonstantinaT/D2Deep#website)
    * [References](https://github.com/KonstantinaT/D2Deep#references)
@@ -32,6 +33,11 @@ Training
 <img src="pipeline.png" width="90%" height="80%">
 
     Code: Model.ipynb
+
+
+Example of D2D feature extraction for single and multiple mutations 
+============
+    Colab: D2D_features_single_multiple.ipynb
 
 
 Example of inference and confidence calculation 
