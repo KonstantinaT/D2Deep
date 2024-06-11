@@ -13,7 +13,7 @@ Table of contents
 <!--ts-->
    * [Datasets and data processing](https://github.com/KonstantinaT/D2Deep/blob/main/README.md#datasets-and-data-processing)
    * [Training](https://github.com/KonstantinaT/D2Deep#training)
-   * [D2D feature extraction: single and multiple mutations] ()
+   * [D2D feature extraction: single and multiple mutations](https://github.com/KonstantinaT/D2Deep/blob/main/README.md#example-of-d2d-feature-extraction-for-single-and-multiple-mutations)
    * [Example of inference and confidence calculation](https://github.com/KonstantinaT/D2Deep/blob/main/README.md#example-of-inference-and-confidence-calculation) 
    * [Website](https://github.com/KonstantinaT/D2Deep#website)
    * [References](https://github.com/KonstantinaT/D2Deep#references)
